@@ -112,6 +112,7 @@ public class Quickstart {
             .setSingleEvents(true)
             .execute();
         List<Event> items = events.getItems();
+
         if (items.size() == 0) {
             System.out.println("No upcoming events found.");
         } else {
