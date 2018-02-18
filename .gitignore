@@ -1,5 +1,9 @@
-# Google Calendar
+# Credentials
 client_secret.json
+
+# Gradle
+.gradle/
+build/
 
 # Logs
 logs
